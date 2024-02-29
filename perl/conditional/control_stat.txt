@@ -1,0 +1,26 @@
+
+	Control Statements:
+		1. if-else
+		2. switch
+		3. unless
+		4. next
+		5. last
+		6. redo
+		7. goto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
