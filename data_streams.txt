@@ -1,9 +1,0 @@
-Data Streams:
-
-There are 3 types of data streams:
-
-	1. Standard Output: Normal output that we see on terminal after a command runs successfully. Ex. echo "Hello World".
-			    It is designated by 1.
-	2. Standard Error:  Normal error messages we see on terminal when command runs unsuccessfully. Ex. ld (instead of ls).
-			    It is designated by 2.
-	3. Standard Input: When we want user to enter/input something using terminal.
