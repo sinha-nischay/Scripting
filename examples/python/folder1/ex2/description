@@ -1,0 +1,71 @@
+
+Example-2:
+------------
+------------
+
+
+Assumptions:
+
+1. 'data' directory contains many files and directories.
+2. We are only interested in games contained in these directory.
+3. Each game is stored in a directory that contains the word 'game'.
+4. Each game directory contains a single .go file that must be compiled before it can be run.
+
+Project Steps:
+
+1. Find all the game directories from /data
+2. Create a new /games directory
+3. Copy and remove the 'game' suffix of all games into /game directory
+4. Create a .json file with all the information about the games.
+5. Complie all the game code
+6. Run all the game codes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

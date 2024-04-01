@@ -1,0 +1,35 @@
+
+Example-1:
+
+In this example, we have a text document containing cusomer details. We will write a script which will give us
+options to add, delete, update, search and show the customers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
