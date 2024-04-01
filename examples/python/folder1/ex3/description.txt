@@ -1,0 +1,42 @@
+
+Ex.3:
+
+In this example, we are going to rename a group of files to make them easily readable.
+
+Here, we have a list of files, all .mp4 extensions, which are videos pf planets of our solar system.
+However their names are not properly organised. Ex. Earth- Our Solar System - #4, etc.
+We want them to be renamed as 4-Earth and so on.
+
+To accomplish the same we are going to write a script.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
